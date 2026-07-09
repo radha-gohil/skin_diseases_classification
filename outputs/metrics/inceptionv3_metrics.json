@@ -1,0 +1,63 @@
+{
+    "BA- cellulitis": {
+        "precision": 0.9375,
+        "recall": 0.9090909090909091,
+        "f1-score": 0.9230769230769231,
+        "support": 33.0
+    },
+    "BA-impetigo": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 20.0
+    },
+    "FU-athlete-foot": {
+        "precision": 0.90625,
+        "recall": 0.90625,
+        "f1-score": 0.90625,
+        "support": 32.0
+    },
+    "FU-nail-fungus": {
+        "precision": 1.0,
+        "recall": 0.9696969696969697,
+        "f1-score": 0.9846153846153847,
+        "support": 33.0
+    },
+    "FU-ringworm": {
+        "precision": 0.8333333333333334,
+        "recall": 0.8695652173913043,
+        "f1-score": 0.851063829787234,
+        "support": 23.0
+    },
+    "PA-cutaneous-larva-migrans": {
+        "precision": 0.8076923076923077,
+        "recall": 0.84,
+        "f1-score": 0.8235294117647058,
+        "support": 25.0
+    },
+    "VI-chickenpox": {
+        "precision": 1.0,
+        "recall": 0.9705882352941176,
+        "f1-score": 0.9850746268656716,
+        "support": 34.0
+    },
+    "VI-shingles": {
+        "precision": 0.9411764705882353,
+        "recall": 0.9696969696969697,
+        "f1-score": 0.9552238805970149,
+        "support": 33.0
+    },
+    "accuracy": 0.9313304721030042,
+    "macro avg": {
+        "precision": 0.9282440139517345,
+        "recall": 0.9293610376462839,
+        "f1-score": 0.9286042570883668,
+        "support": 233.0
+    },
+    "weighted avg": {
+        "precision": 0.9328553557441465,
+        "recall": 0.9313304721030042,
+        "f1-score": 0.9318947420867146,
+        "support": 233.0
+    }
+}
